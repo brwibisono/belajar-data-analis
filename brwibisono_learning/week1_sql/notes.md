@@ -1,6 +1,5 @@
 # SQL Learning Journey by brwibisono
 # folder week1_sql
-# 
 
 
 ## 1_basic
@@ -26,6 +25,7 @@
 ### TEST and EVALUATION for BASIC, AGGREGATE and JOIN ####
 Dataset: Memakai dataset public The Look Ecommerce pada BigQuery
 Notes: Materi selanjutnya akan memakai dataset public BigQuery
+
 
 
 ## 5_subquery
@@ -99,9 +99,6 @@ noted: di BigQuery, except = except distinct. intersect = intersect distinct
 # except_intersect_quiz
 - except_intersect_quiz: hitung jumlah customer loyal, baru dan hilang bulan september
 
-
-
-### EVERY DAY QUIZ ###
 
 
 
