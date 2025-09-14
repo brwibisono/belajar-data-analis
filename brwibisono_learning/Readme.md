@@ -16,8 +16,6 @@ Notes: Perjalanan ini akan diperbarui setiap hari minggu.
 
 ## Sertifikasi
 - Into To Data Analytics: RevoU (Mini Course)			September 2025
-- 
--
 
 
 ## Portofolio
