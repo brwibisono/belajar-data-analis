@@ -1,0 +1,12 @@
+# SQL Learning Journey by brwibisono# Minggu 1## Test11. Pilih 10 order pertama dari table orders2. Filter hanya yg status Complete3. Tampilkan kolom: order_id, user_id, order_status dan order_date## Test11. Tampilkan nama customer lengkap (first + last) bersama order_id dan status2. Gunakan INNER JOIN antara orders dan users berdasarkan user_id3. 10 hasil pertama berstatus selesai## Test31. Produk apa yang dibeli oleh customer tertentu2. Tampilkan nama customer, nama produk, kuantiti dan waktu pembelian3. 10 hasil pertama berstatus selesai4. JOIN orders Ð order_items Ð products Ð users## Test41. Tampilkan 5 produk dengan total revenue tertinggi2. Tanpa kategori harga## Test51. Pakai kerangka nomor 42. Tambahkan CASE WHEN3. Tampilkan 5 produk dengan revenue tertinggi 4. Tampilkan kategori revenueTets5b1. Tampilkan 5 produk revenue tertinggi2. Kategori per unit
+
+#Test6
+1. Perbedaan WHERE dan HAVING
+2. Penggunaan WHERE dan HAVING
+
+#Test7
+1. Laporan penjualan sederhana
+2. Tampilkan 10 produk teratas berdasarkan total revenue
+3. Nama, total revenue, total transaksi (count order_id), dan rata2 (avg sale_price)
+
+
