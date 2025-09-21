@@ -5,13 +5,8 @@ Notes: Perjalanan ini akan diperbarui setiap hari minggu.
 
 ## Struktur
 - Minggu 1: SQL	
-- Minggu 2: SQL_Evaluasi_Project
-- Minggu 3: Visualisasi
-- Minggu 4: Visual_Evaluasi_Project				
-- Minggu 5: Python
-- Minggu 6: Python_Evaluasi_Project
-- Minggu 7: Next_Python
-- Minggu 8: Next_Python_Evaluasi_Project
+- Minggu 2: SQL_Advance
+- Minggu 3: SQL_Optimize_Query
 
 
 ## Sertifikasi
