@@ -10,7 +10,7 @@ Notes: Perjalanan ini akan diperbarui setiap hari minggu.
 
 
 ## Sertifikasi
-https://drive.google.com/drive/folders/1qg3ZeF4vBeK207cN2qHDKbVW9uXFSwax?usp=drive_link
+https://bit.ly/brwibisono_sertifikat
 
 
 ## Portofolio
