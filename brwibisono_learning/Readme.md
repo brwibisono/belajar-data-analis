@@ -4,13 +4,13 @@ Notes: Perjalanan ini akan diperbarui setiap hari minggu.
 
 
 ## Struktur
-- Minggu 1: SQL	
+- Minggu 1: SQL
 - Minggu 2: SQL_Advance
-- Minggu 3: SQL_Engineering
+- Minggu 3: SQL_Project3
 
 
 ## Sertifikasi
-- Into To Data Analytics: RevoU (Mini Course)			September 2025
+https://drive.google.com/drive/folders/1qg3ZeF4vBeK207cN2qHDKbVW9uXFSwax?usp=drive_link
 
 
 ## Portofolio
